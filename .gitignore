@@ -1,0 +1,5 @@
+# Build folder and artefacts
+bin
+
+# VS Code
+.vscode
