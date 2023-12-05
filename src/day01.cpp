@@ -18,7 +18,7 @@ std::vector<std::string> readInput(std::string file)
     return res;
 }
 
-std::  array<std::string, 9> digits = {
+std::array<std::string, 9> digits = {
     "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"
 };
 
