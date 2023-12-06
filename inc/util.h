@@ -4,7 +4,7 @@
 #include <string>
 #include <vector>
 
-std::vector<std::string> split(std::string str, std::string del)
+inline std::vector<std::string> split(std::string str, std::string del)
 {
     size_t start = 0, end, delLen = del.length();
     std::string token;
