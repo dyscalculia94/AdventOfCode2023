@@ -1,5 +1,6 @@
-# Build folder and artefacts
+# Build folders and artefacts
 bin
+release
 
 # VS Code
 .vscode
