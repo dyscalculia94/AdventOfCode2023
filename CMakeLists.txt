@@ -33,3 +33,5 @@ add_subdirectory(src)
 # ==================================================================================================================== #
 # Make the executable
 add_executable(aoc2023 main.cpp ${AOC_SRCS})
+
+target_compile_features(aoc2023 PRIVATE cxx_std_17)
