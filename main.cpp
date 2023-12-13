@@ -1,9 +1,9 @@
 #include <iostream>
 
-#include "day12.h"
+#include "day13.h"
 
 int main() {
-    auto res = day12();
+    auto res = day13();
     std::cout << res.first << " " << res.second << std::endl;
 }
 
